@@ -1,3 +1,4 @@
+
 # 🏥 Hospital Emergency Room Performance Dashboard
 
 <div align="center">
@@ -31,7 +32,8 @@ Emergency Departments operate in high-pressure environments where every second c
 
 ## 🖼️ Dashboard Preview
 
-![Hospital ER Dashboard](
+![Hospital ER Dashboard](<img width="1122" height="636" alt="Screenshot 2026-06-28 001310" src="https://github.com/user-attachments/assets/a798dca8-cdda-41d2-b7b6-896a32158347" />
+
 )
 > *Hospital Emergency Room Dashboard — May 2024 view with interactive year/month slicers*
 
