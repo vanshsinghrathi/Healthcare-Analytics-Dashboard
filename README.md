@@ -17,6 +17,7 @@
 
 ## 📌 Project Overview
 
+
 Emergency Departments operate in high-pressure environments where every second counts. This project involved building a **fully interactive Hospital Emergency Room Performance Dashboard** in **Microsoft Excel** to help healthcare administrators:
 
 - Monitor daily patient volumes and ER efficiency
@@ -30,6 +31,7 @@ Emergency Departments operate in high-pressure environments where every second c
 
 ## 🖼️ Dashboard Preview
 
+![Hospital ER Dashboard](Screenshots/dashboard.png)
 > *Hospital Emergency Room Dashboard — May 2024 view with interactive year/month slicers*
 
 | Section | What it Shows |
